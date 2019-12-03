@@ -1,0 +1,15 @@
+---
+title: "ass5 q2"
+author: "Huilin Liu"
+date: "2019/11/29"
+output: html_document
+---
+#Q2
+
+$H_0: \beta=1$ 
+$H_1: \beta \neq 1$
+
+significance level $\alpha=0.05$
+
+We can learn from example 19.3, the 95% CI is (0.672, 0.931). This interval does not includes 1, therefore we reject the H0. The average changes in ‘headcirc’ when ‘gestage’ increases by one week. And ‘momage’ stays constant.
+
